@@ -2,3 +2,5 @@ notebook
 matplotlib
 pandas
 numpy
+joblib
+os
